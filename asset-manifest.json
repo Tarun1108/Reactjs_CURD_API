@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Reactjs_CURD_API/static/css/main.13999042.chunk.css",
+    "main.js": "/Reactjs_CURD_API/static/js/main.14276fbc.chunk.js",
+    "main.js.map": "/Reactjs_CURD_API/static/js/main.14276fbc.chunk.js.map",
+    "runtime-main.js": "/Reactjs_CURD_API/static/js/runtime-main.a7468806.js",
+    "runtime-main.js.map": "/Reactjs_CURD_API/static/js/runtime-main.a7468806.js.map",
+    "static/css/2.ef9168ec.chunk.css": "/Reactjs_CURD_API/static/css/2.ef9168ec.chunk.css",
+    "static/js/2.6ca45f93.chunk.js": "/Reactjs_CURD_API/static/js/2.6ca45f93.chunk.js",
+    "static/js/2.6ca45f93.chunk.js.map": "/Reactjs_CURD_API/static/js/2.6ca45f93.chunk.js.map",
+    "index.html": "/Reactjs_CURD_API/index.html",
+    "static/css/2.ef9168ec.chunk.css.map": "/Reactjs_CURD_API/static/css/2.ef9168ec.chunk.css.map",
+    "static/css/main.13999042.chunk.css.map": "/Reactjs_CURD_API/static/css/main.13999042.chunk.css.map",
+    "static/js/2.6ca45f93.chunk.js.LICENSE.txt": "/Reactjs_CURD_API/static/js/2.6ca45f93.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7468806.js",
+    "static/css/2.ef9168ec.chunk.css",
+    "static/js/2.6ca45f93.chunk.js",
+    "static/css/main.13999042.chunk.css",
+    "static/js/main.14276fbc.chunk.js"
+  ]
+}
